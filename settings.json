@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "redhat.telemetry.enabled": false,
+    "files.associations": {
+        "*.cshtml": "razor"
+    }
+}
